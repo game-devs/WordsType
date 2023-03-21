@@ -19,8 +19,7 @@
 שימו כאן ציור-מסך המתאר את המשחק כפי שאתם רואים אותו בדמיון שלכם.
 אחר כך
 
-
-https://user-images.githubusercontent.com/70629274/226703301-da8baaa1-adf1-4338-93b1-e6f424750947.jpg
+![336657745_898956271330600_1278453170828047211_n](https://user-images.githubusercontent.com/70629274/226705177-e082dde0-8043-4bbd-97a5-bbd0d069079e.jpg)
 
 
 ---
@@ -145,7 +144,7 @@ https://user-images.githubusercontent.com/70629274/226703301-da8baaa1-adf1-4338-
 מצאנו שלושה משחקים דומים:
 
       WordShooter(Google play):
-  https://user-images.githubusercontent.com/70629274/226703872-a6738c1a-5247-4013-8ad5-e19b51380a9d.jpg
+  ![unnamed (1)](https://user-images.githubusercontent.com/70629274/226705304-9a244f6e-0927-4373-b42b-a78975ff2621.jpg)
 
 
 
