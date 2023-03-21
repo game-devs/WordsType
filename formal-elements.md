@@ -150,14 +150,14 @@
 
    Space Shooter(Google play):
 
-       https://user-images.githubusercontent.com/70629274/226704057-1ea75c1b-a90f-42ed-87f6-eb309e4166c6.PNG
+       ![Capture](https://user-images.githubusercontent.com/70629274/226705923-753f76aa-3494-419e-925f-8e83762017ae.PNG)
 
 
 
 
 Space Ship Invaders:
  
-https://user-images.githubusercontent.com/70629274/226704299-16d5c6c4-f207-44ae-ab94-190e0a8a262d.png
+![download](https://user-images.githubusercontent.com/70629274/226705698-cd6b9751-2cd0-45c6-b2ca-cd29a60fafcb.png)
 
 .
 * 
