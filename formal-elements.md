@@ -92,14 +92,15 @@
 
 מצאנו שלושה משחקים דומים:
 
-      WordShooter(Google play):
-  ![unnamed (1)](https://user-images.githubusercontent.com/70629274/226705304-9a244f6e-0927-4373-b42b-a78975ff2621.jpg)
+WordShooter(Google play):
+ 
+![unnamed (1)](https://user-images.githubusercontent.com/70629274/226705304-9a244f6e-0927-4373-b42b-a78975ff2621.jpg)
 
 
 
-   Space Shooter(Google play):
+Space Shooter(Google play):
 
-       ![Capture](https://user-images.githubusercontent.com/70629274/226705923-753f76aa-3494-419e-925f-8e83762017ae.PNG)
+![Capture](https://user-images.githubusercontent.com/70629274/226705923-753f76aa-3494-419e-925f-8e83762017ae.PNG)
 
 
 
