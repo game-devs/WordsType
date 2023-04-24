@@ -3,7 +3,7 @@
 
 #Unity Version: 2021.3.21f1
 
-- Run and Jump through the obstacles and collect the fruits along the way till the current lvl endpoint.
+- Each enemy ship will appear on the screen with an associated word. You have to type the word to destroy the ship and before it reaches the bottom and you lose.
 
 ![Capture](https://user-images.githubusercontent.com/70629274/234119348-f3a3a46b-6191-458d-9ee5-5e2440cf9215.PNG)
 
