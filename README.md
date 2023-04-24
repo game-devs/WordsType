@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/70629274/234119397-86b3eb12-2753-4b91-
 
 
 </br>
-https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
+
 ## Assets
 
 - https://assetstore.unity.com/packages/2d/environments/2d-space-kit-27662
