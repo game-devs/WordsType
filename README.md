@@ -5,9 +5,8 @@
 
 - Each enemy ship will appear on the screen with an associated word. You have to type the word to destroy the ship and before it reaches the bottom and you lose.
 
-![Capture](https://user-images.githubusercontent.com/70629274/234119348-f3a3a46b-6191-458d-9ee5-5e2440cf9215.PNG)
+![ww](https://github.com/project-dark-sky/WordsType/assets/70629274/7d961d22-34d9-488f-981a-9d20cb167f4f)
 
-https://user-images.githubusercontent.com/70629274/234119397-86b3eb12-2753-4b91-8201-75a6c04ede11.mp4
 
 
 
