@@ -27,11 +27,36 @@ public class ShootingScript : MonoBehaviour
 
     [SerializeField]
     private GameObject explosion;
+
+    [SerializeField]
+    private GameObject TutorialCompletedScreen;
+
     private float explosionDestroyDelay = 0.75f;
 
     private float nextLvlDely = 0.75f;
 
     private Boolean hasTarget = false;
+
+
+
+    private const string tutorialSceneName = "TutorialMode";
+    private bool isTutorialCompleted = false;
+    
+
+
+
+
+
+    private void Start()
+    {
+        if (SceneManager.GetActiveScene().name == tutorialSceneName)
+        {
+            isTutorialCompleted = true;
+        }
+
+    }
+
+
 
     //spawn bullet objects and let them move towards a target point.
     protected virtual GameObject SpawnBullet()
@@ -70,7 +95,9 @@ public class ShootingScript : MonoBehaviour
             TMP_Text currentText = enemyTargets[
                 currentTargetIndex
             ].GetComponentInChildren<TMP_Text>();
+
             char currentChar = currentText.text[0];
+            Debug.Log(currentChar);
             if (pressedKey[0] == currentChar)
             {
                 SpawnBullet();
@@ -145,7 +172,15 @@ public class ShootingScript : MonoBehaviour
 
     //move to the next lvl
     public void GoToNextLvl()
+
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        if (!isTutorialCompleted)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            return;
+        }
+
+       TutorialCompletedScreen.SetActive(true);
+
     }
 }

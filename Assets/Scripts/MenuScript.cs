@@ -7,7 +7,8 @@ using UnityEngine.SceneManagement;
 public class MenuScript : MonoBehaviour
 {
     const int StartMenuIndex = 0;
-    const int LvlOneIndex = 1;
+    const int LvlOneIndex = 2;
+    const int tutorialIndex = 1;
 
     // Moving to the next lvl/scene
     public void NextScene()
@@ -24,5 +25,11 @@ public class MenuScript : MonoBehaviour
     {
         Debug.Log("Quit Game");
         Application.Quit();
+    }
+
+    public void PlayTutorial()
+    {
+        SceneManager.LoadScene(tutorialIndex);
+
     }
 }

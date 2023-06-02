@@ -9,8 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/StartScene.unity
     guid: 497db1cc20e48aa49861fd8364d10343
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/TutorialMode.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/NormalMode 1.unity
+    guid: ba09e96e9c8232a4e89af8b7faf2bf4c
   - enabled: 1
     path: Assets/Scenes/End Scene.unity
     guid: f6d486d51e0daef48bc7cb043ef23b27
